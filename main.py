@@ -11,7 +11,7 @@ num_questions=10
 
 asked_questions = [] # to keep the record of questions that are already asked to avoid repetition
 
-print("WElcome to put quiz Program!! ")
+print("Welcome to quiz Program!! ")
 
 # We use '_' as the loop variable because we don't need the index (i), we just want to repeat the loop
 for _ in range(num_questions): # 0 to (10-1) range(0,10)=0 to 9
